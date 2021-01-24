@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: com.mxgraph.examples.web.GraphEditor
+Class-Path: mxgraph-core.jar mxgraph-swing.jar mxgraph-all.jar junit-4.7
+ .jar servlet-api-2.5-6.1.1.jar mxPdf.jar jetty-6.1.1.jar jetty-util-6.1
+ .1.jar
+
